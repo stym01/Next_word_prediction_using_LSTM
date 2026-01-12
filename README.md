@@ -28,6 +28,7 @@ The model is trained on a custom corpus of text data. It learns the statistical 
 ```text
 ├── next_word_prediction_with_LSTM.ipynb   # Main Jupyter Notebook containing the code
 ├── README.md                              # Project Documentation
+```
 
 ## 🧠 Model Architecture
 
@@ -64,7 +65,3 @@ To run this project locally, follow these steps:
 ## 🤝 Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-
-
-
